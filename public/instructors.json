@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Dr. John Doe",
+    "Picture": "https://placehold.co/600x400/EEE/31343C",
+    "Email": "john.doe@example.com",
+    "Category": "popular"
+  },
+  {
+    "Name": "Dr. Jane Smith",
+    "Picture": "https://placehold.co/600x400/EEE/31343C",
+    "Email": "jane.smith@example.com",
+    "Category": "popular"
+  },
+  {
+    "Name": "Dr. Mary Johnson",
+    "Picture": "https://placehold.co/600x400/EEE/31343C",
+    "Email": "mary.johnson@example.com",
+    "Category": "Addiction Psychiatrist"
+  },
+  {
+    "Name": "Dr. James Brown",
+    "Picture": "https://placehold.co/600x400/EEE/31343C",
+    "Email": "james.brown@example.com",
+    "Category": "Forensic Psychiatrist"
+  },
+  {
+    "Name": "Dr. Patricia Davis",
+    "Picture": "https://placehold.co/600x400/EEE/31343C",
+    "Email": "patricia.davis@example.com",
+    "Category": "Organizational Psychiatrist"
+  },
+  {
+    "Name": "Dr. Robert Miller",
+    "Picture": "https://placehold.co/600x400/EEE/31343C",
+    "Email": "robert.miller@example.com",
+    "Category": "Neuropsychiatrist"
+  }
+]
